@@ -922,7 +922,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
                 ],[
-                    InlineKeyboardButton('֎ ʙᴀᴄᴋᴜᴘ ɢʀᴏᴜᴘ ֍', url=f'https://t.me/+WnZsXs_fNoM2M2U1')
+                    InlineKeyboardButton('֎ ʙᴀᴄᴋᴜᴘ ɢʀᴏᴜᴘ ֍', url=f'https://t.me/+0XECKqZx-ZA5NWFl')
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
